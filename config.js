@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Em cho anh một cơ hội để được quan tâm em nhiều hơn nhé? ',
     btnYes: 'Có <33',
     btnNo: 'Để em suy nghĩ cách để a khóc :3',
-    question: 'Giữa bao nhiêu người, sao anh lại để ý mỗi em vậy nhỉ?',
-    btnReply: 'Gửi cho em <3',
-    reply: 'Vì anh thích em, vì là thích tất cả mọi thứ về em nên anh không biết lí do cụ thể là gì cả <3',
+    question: 'Em có đồng ý làm người yêu của anh không?',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Dạ có ạ',
     mess: 'Anh biết mà 🥰 Anh thương em nhiều lắm 🥺',
     messDesc: 'Em Đồng Ý Làm Người Yêu Anh Nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii ',
     messLink: 'https://www.facebook.com/hong.tan.597336/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
