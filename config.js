@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "Do u luv me ???",
+    introTitle: 'Hello bạn nhỏ Bảo Trân',
+    introDesc: `Anh không giỏi nói mấy lời sến súa đâu.
+Nhưng anh thật sự vui vì đã gặp được em.
+Cảm ơn em vì đã xuất hiện và ở bên anh.
+Mong là sau này anh vẫn có thể ở cạnh em.`,
+    btnIntro: '^^Sến quá broo^^',
+    title: 'Anh không biết em nghĩ sao, nhưng anh thật sự có tình cảm với em 🥰',
+    desc: 'Em cho anh một cơ hội để được quan tâm em nhiều hơn nhé? ',
+    btnYes: 'Có <33',
+    btnNo: 'Để em suy nghĩ cách để a khóc :3',
+    question: 'Giữa bao nhiêu người, sao anh lại để ý mỗi em vậy nhỉ?',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Vì anh thích em, vì là thích tất cả mọi thứ về em nên anh không biết lí do cụ thể là gì cả <3',
+    mess: 'Anh biết mà 🥰 Anh thương em nhiều lắm 🥺',
+    messDesc: 'Em Đồng Ý Làm Người Yêu Anh Nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/hong.tan.597336/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
